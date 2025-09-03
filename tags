@@ -1,0 +1,45 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/florian/rust-pg/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+0	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	o	array:local
+17747080675513052775	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	o	object:outputs
+7971740275564407648	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	o	object:outputs
+CheckDepInfo	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	o	object:local.0
+byte_len	hello-world/src/main.rs	/^fn byte_len(s: &str) -> usize {$/;"	f
+char_len	hello-world/src/main.rs	/^fn char_len(s: &str) -> usize {$/;"	f
+checksum	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	b	object:local.0.CheckDepInfo
+code	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	n	object:outputs.17747080675513052775
+code	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	n	object:outputs.7971740275564407648
+compile_kind	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	n
+config	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	n
+declared_features	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	s
+dep_info	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	s	object:local.0.CheckDepInfo
+deps	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	a
+features	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	s
+grapheme_len	hello-world/src/main.rs	/^fn grapheme_len(s: &str) -> usize {$/;"	f
+local	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	a
+main	hello-world/src/main.rs	/^fn main() {$/;"	f
+outputs	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	o
+path	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	n
+profile	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	n
+rustc	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	n
+rustc_fingerprint	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	n
+rustflags	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	a
+status	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	s	object:outputs.17747080675513052775
+status	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	s	object:outputs.7971740275564407648
+stderr	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	s	object:outputs.17747080675513052775
+stderr	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	s	object:outputs.7971740275564407648
+stdout	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	s	object:outputs.17747080675513052775
+stdout	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	s	object:outputs.7971740275564407648
+success	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	b	object:outputs.17747080675513052775
+success	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	b	object:outputs.7971740275564407648
+successes	hello-world/target/.rustc_info.json	/^{"rustc_fingerprint":14929090271657588457,"outputs":{"17747080675513052775":{"success":true,"sta/;"	o
+target	hello-world/target/debug/.fingerprint/hello-world-c5064f8df8d1b307/bin-hello-world.json	/^{"rustc":12013579709055016942,"features":"[]","declared_features":"[]","target":1448192144382448/;"	n
